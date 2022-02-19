@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamluuu3006
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Java, Python, HTML, JavaScript and C++
+- 🌱 I’m currently learning Web and App Development
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me kamleshkhatod42@gmail.com
 
